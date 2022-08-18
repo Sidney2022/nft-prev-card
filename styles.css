@@ -18,7 +18,8 @@ img {
 }
 
 main {
-    width: 350px;
+    width:90%;
+    max-width: 350px;
     margin: 0 auto;
     margin-top: 40px;
     background: hsl(216, 50%, 16%);
