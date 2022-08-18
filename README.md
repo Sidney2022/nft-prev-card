@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Sidney2022/nft-prev-card)
-- Live Site URL: [Add live site URL here](https://sidney2022.github.io/nft-prev-card/)
+- Solution URL: [ See source codes ](https://github.com/Sidney2022/nft-prev-card)
+- Live Site URL: [CLICK HERE](https://sidney2022.github.io/nft-prev-card/)
 
 
 
@@ -31,7 +31,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Sidney ](https://www.sidneyuwaya.netlify.app)
+- Website - [Sidney ](https://sidneyuwaya.netlify.app)
 - Frontend Mentor - [@Sidney2022](https://www.frontendmentor.io/profile/Sidney2022)
 
 
